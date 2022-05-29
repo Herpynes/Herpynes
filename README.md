@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Herpynes
 - 👀 I’m interested in ... administrative jobs
 - 🌱 I’m currently learning ... data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... emieperrz@gmail.com
 
 <!---
 Herpynes/Herpynes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
